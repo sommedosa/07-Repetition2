@@ -15,5 +15,5 @@
 - Inner loop goes through all of its iterations for each iteration of outer loop </br>
 - Inner loops complete their iterations faster than outer loops </br>
 - Total number of iterations in nested loop:   	 </br>
->>number_iterations_inner  x  </br>
->>number_iterations_outer </br>
+  - number_iterations_inner  x  </br> 
+  - number_iterations_outer </br>
