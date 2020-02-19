@@ -1,6 +1,6 @@
 # Repetition #2
 
-## Repetition structures
+## Nest Repetition structures
 * Condition-controlled loops
 * Count-controlled loops
 * Nested loops
